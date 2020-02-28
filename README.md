@@ -11,6 +11,8 @@ ______ _     _ _ _         _____           _                        _   _____   
 
 This repository will house the website for the Philly Coffee and Code monthly meetup!
 
+=== https://philly-coffee-and-code.github.io/meetup/ ===
+
 Check back for updates! This site is under construction.
 
                                             /^--^\     /^--^\     /^--^\
