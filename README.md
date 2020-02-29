@@ -1,4 +1,4 @@
-# Philly Code and Coffee
+# Philly Coffee and Code
 
 This repository will house the website for the Philly Coffee and Code monthly meetup!
 
